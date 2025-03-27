@@ -1,7 +1,5 @@
 [![Made withJupyter](https://img.shields.io/badge/Made%20with-Jupyter-orange?style=for-the-badge&logo=Jupyter)](https://jupyter.org/try)
-[![Python](https://img.shields.io/badge/-Python?style=for-the-badge&logo=Python)](https://www.python.org/downloads/)
-[![Pandas](https://img.shields.io/badge/Pandas?style=for-the-badge)](https://pandas.pydata.org/)
-
+[![Python](https://img.shields.io/badge/Python-gray?style=for-the-badge&logo=Python)](https://www.python.org/downloads/)
 
 
 # Маркетинг
@@ -35,6 +33,8 @@
    pip install -r requirements.txt
    ```
 3. Запустите проект в `Jupiter Notebook`.
+
+
 
 ### Автор
 Николаев Роман
