@@ -1,6 +1,6 @@
 [![Made withJupyter](https://img.shields.io/badge/Made%20with-Jupyter-orange?style=for-the-badge&logo=Jupyter)](https://jupyter.org/try)
-[![Python](https://img.shields.io/badge/-Python_3.9.10-464646??style=flat-square&logo=Python)](https://www.python.org/downloads/)
-[![Pandas](https://img.shields.io/badge/Pandas?style=flat-square&logo=Pandas)](https://pandas.pydata.org/)
+[![Python](https://img.shields.io/badge/-Python?style=for-the-badge&logo=Python)](https://www.python.org/downloads/)
+[![Pandas](https://img.shields.io/badge/Pandas?style=for-the-badge)](https://pandas.pydata.org/)
 
 
 
@@ -29,12 +29,12 @@
     ```bash
     git clone https://github.com/Risik-ux/workshop_second.git
     ```
-2. Установители модули из файла `requirements.txt`.
+2. Установите модули из файла `requirements.txt`.
 
    ```bash
    pip install -r requirements.txt
    ```
-
+3. Запустите проект в `Jupiter Notebook`.
 
 ### Автор
 Николаев Роман
